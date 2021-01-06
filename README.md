@@ -1,9 +1,13 @@
 # Movie-Recommender-System
 
--Ziaul Kadri
--Ujjwal Gupta
--Supriya kumari Gupta
--Himanshi kumari Gupta
+● Ziaul Kadri
+
+● Ujjwal Gupta
+
+● Supriya kumari Gupta
+
+● Himanshi kumari Gupta
+
 Content Based Recommender System Working
 Content Based Recommender System recommends items similar to the items user likes. How does it decide which item is most similar to the item user likes. Here we use the similarity scores.
 
