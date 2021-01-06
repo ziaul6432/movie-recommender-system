@@ -15,6 +15,7 @@ Content based recommender systems recommends similar items used by the user in t
 For example, Netflix recommends us the similar movies to the movie we recently watched.
 
 Similarly, Youtube also recommends us similar videos to the videos in our watch history.
+![py5](https://user-images.githubusercontent.com/57566639/103797720-d8de3d00-506e-11eb-9328-df7d7957f7d5.png)
 
 ● Similarity Score :It is a numerical value ranges between zero to one which helps to determine how much two items are similar to each other on a scale of zero to one. This similarity score is obtained measuring the similarity between the text details of both of the items. So, similarity score is the measure of similarity between given text details of two items.
 
