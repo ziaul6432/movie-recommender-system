@@ -6,6 +6,7 @@ Content Based Recommender System recommends items similar to the items user like
 
 Here we’ll use cosine similarity between text details of items. In the example below it is shown how to get cosine similarity:
 
+![cosine](https://user-images.githubusercontent.com/57566639/103796867-c1eb1b00-506d-11eb-8fb4-20e061d8b27d.jpg)
 
 This is a hollywood movie recommender system built with Python. I used IMDB 5000 Movie Dataset to built this.
 Link to dataset :- https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
